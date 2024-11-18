@@ -1,0 +1,14 @@
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\bin\Debug\net8.0\NpiezaCualquiera.exe
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\bin\Debug\net8.0\NpiezaCualquiera.deps.json
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\bin\Debug\net8.0\NpiezaCualquiera.runtimeconfig.json
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\bin\Debug\net8.0\NpiezaCualquiera.dll
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\bin\Debug\net8.0\NpiezaCualquiera.pdb
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.AssemblyInfoInputs.cache
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.AssemblyInfo.cs
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.csproj.CoreCompileInputs.cache
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.dll
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\refint\NpiezaCualquiera.dll
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.pdb
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\NpiezaCualquiera.genruntimeconfig.cache
+C:\Users\fidel\source\repos\NpiezaCualquiera\NpiezaCualquiera\obj\Debug\net8.0\ref\NpiezaCualquiera.dll

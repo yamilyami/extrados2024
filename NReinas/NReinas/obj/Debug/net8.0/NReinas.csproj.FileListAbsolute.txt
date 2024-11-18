@@ -1,0 +1,14 @@
+C:\Users\fidel\source\repos\NReinas\NReinas\bin\Debug\net8.0\NReinas.exe
+C:\Users\fidel\source\repos\NReinas\NReinas\bin\Debug\net8.0\NReinas.deps.json
+C:\Users\fidel\source\repos\NReinas\NReinas\bin\Debug\net8.0\NReinas.runtimeconfig.json
+C:\Users\fidel\source\repos\NReinas\NReinas\bin\Debug\net8.0\NReinas.dll
+C:\Users\fidel\source\repos\NReinas\NReinas\bin\Debug\net8.0\NReinas.pdb
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.AssemblyInfoInputs.cache
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.AssemblyInfo.cs
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.csproj.CoreCompileInputs.cache
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.dll
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\refint\NReinas.dll
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.pdb
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\NReinas.genruntimeconfig.cache
+C:\Users\fidel\source\repos\NReinas\NReinas\obj\Debug\net8.0\ref\NReinas.dll

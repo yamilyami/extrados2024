@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AjedresCBiblioteca/1.0.0": {
+        "dependencies": {
+          "AjedrezBiblio": "1.0.0"
+        },
+        "runtime": {
+          "AjedresCBiblioteca.dll": {}
+        }
+      },
+      "AjedrezBiblio/1.0.0": {
+        "runtime": {
+          "AjedrezBiblio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AjedresCBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AjedrezBiblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

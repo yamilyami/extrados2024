@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AjedresCBiblioteca", "AjedresCBiblioteca\AjedresCBiblioteca.csproj", "{2528F70C-CA77-4AB3-A99A-A950921D4C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjedrezBiblio", "AjedrezBiblio\AjedrezBiblio.csproj", "{23E8A5A5-A8DC-4D65-AED5-4FD1FFCE94FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2528F70C-CA77-4AB3-A99A-A950921D4C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2528F70C-CA77-4AB3-A99A-A950921D4C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2528F70C-CA77-4AB3-A99A-A950921D4C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2528F70C-CA77-4AB3-A99A-A950921D4C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E8A5A5-A8DC-4D65-AED5-4FD1FFCE94FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E8A5A5-A8DC-4D65-AED5-4FD1FFCE94FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E8A5A5-A8DC-4D65-AED5-4FD1FFCE94FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E8A5A5-A8DC-4D65-AED5-4FD1FFCE94FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7E796B-A720-408C-B59A-036F45F287D8}
+	EndGlobalSection
+EndGlobal

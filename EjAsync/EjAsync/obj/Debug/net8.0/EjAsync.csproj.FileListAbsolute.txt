@@ -1,0 +1,15 @@
+C:\Users\fidel\source\repos\EjAsync\EjAsync\bin\Debug\net8.0\EjAsync.exe
+C:\Users\fidel\source\repos\EjAsync\EjAsync\bin\Debug\net8.0\EjAsync.deps.json
+C:\Users\fidel\source\repos\EjAsync\EjAsync\bin\Debug\net8.0\EjAsync.runtimeconfig.json
+C:\Users\fidel\source\repos\EjAsync\EjAsync\bin\Debug\net8.0\EjAsync.dll
+C:\Users\fidel\source\repos\EjAsync\EjAsync\bin\Debug\net8.0\EjAsync.pdb
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.AssemblyInfoInputs.cache
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.AssemblyInfo.cs
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.csproj.CoreCompileInputs.cache
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.sourcelink.json
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.dll
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\refint\EjAsync.dll
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.pdb
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\EjAsync.genruntimeconfig.cache
+C:\Users\fidel\source\repos\EjAsync\EjAsync\obj\Debug\net8.0\ref\EjAsync.dll
